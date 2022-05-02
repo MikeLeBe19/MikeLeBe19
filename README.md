@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mike LeBegue! @MikeLeBe19 
-- 👀 I’m interested in Full-Stack Development. The stack is irrelevant because I want to learn it all before
-     defining my wheelhouse. 
-- 🌱 I’m currently learning as many stacks as possible. I've had experience with C# and JavaScript.
+- 👀 I’m interested in Full-Stack Development. The current full-stack is JavaScript. PERN: PostgreSQL, Express, React, Node.js   
+- 🌱 Proficient in JavaScript and knowledgable in C#.
 - 📫 How to reach me ... lebegue92@yahoo.com
 
 <!---
