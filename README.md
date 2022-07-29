@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mike LeBegue! @MikeLeBe19 
 - 👀 I’m interested in Full-Stack Development. The current full-stack is JavaScript. PERN: PostgreSQL, Express, React, Node.js   
-- 🌱 Proficient in JavaScript and knowledgable in C#.
+- 🌱 Proficient in JavaScript and knowledgeable in C#.
 - 📫 How to reach me ... lebegue92@yahoo.com
 
 <!---
