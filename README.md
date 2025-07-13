@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mike LeBegue! @MikeLeBe19 
-- 👀 I'm a professional software engineer.   
+- 👀 I'm a software engineer.   
 - 🌱 Proficient in JavaScript and knowledgeable in many others.
 - 📫 How to reach me ... lebegue92@yahoo.com
 
